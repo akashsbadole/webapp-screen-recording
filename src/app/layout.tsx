@@ -14,21 +14,34 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Z.ai Code Scaffold - AI-Powered Development",
-  description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  authors: [{ name: "Z.ai Team" }],
+  title: "Free Screen Recorder: Capture, Annotate ...",
+  description:
+    "Record your screen, capture moments, and annotate with our free online tool. No downloads required, easy to use, and perfect for tutorials, demos, and more.",
+  keywords: [
+    "online screen recorder",
+    "screen recording software",
+    "tutorial recording",
+    "demo recording",
+    "video annotation",
+    "screen capture",
+    "free screen recorder",
+    "screen recorder online",
+    "online screen capture",
+  ],
+  authors: [{ name: " Akash Badole" }],
   openGraph: {
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
-    url: "https://chat.z.ai",
-    siteName: "Z.ai",
+    title: " Free Screen Recorder: Capture, Annotate....",
+    description:
+      "Record your screen, capture moments, and annotate with our free online tool. No downloads required, easy to use, and perfect for tutorials, demos, and more.",
+    url: "",
+    siteName: "",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
+    title: " Free Screen Recorder: Capture, Annotate....",
+    description:
+      "Record your screen, capture moments, and annotate with our free online tool. No downloads required, easy to use, and perfect for tutorials, demos, and more.",
   },
 };
 
