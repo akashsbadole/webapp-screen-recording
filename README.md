@@ -1,7 +1,7 @@
 # Screen Recording Web App
 
 A professional web application for video recording, screen capture, GIF creation, and advanced annotation tools built with Next.js 15, TypeScript, and modern web technologies.
-
+![Screen Recording Web App](screenshots.png)
 ## 🌟 Features
 
 ### 🎥 Recording Capabilities
